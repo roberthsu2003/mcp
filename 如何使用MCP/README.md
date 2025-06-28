@@ -9,4 +9,11 @@
 - 安裝uv
 	- [uv官網](https://docs.astral.sh/uv/)
 
+## MCP client
+
 ### claude desktop
+### github copilot
+### cline
+### Roo Code
+### Cursor
+
