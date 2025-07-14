@@ -9,3 +9,7 @@
 > “postgresql://使用者名稱:使用者密碼@主機位置/資料庫名稱?sslmode=require”
 
 ### [Figma](https://github.com/GLips/Figma-Context-MCP)
+
+
+### [context7](https://github.com/upstash/context7)
+
