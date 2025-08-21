@@ -1,5 +1,7 @@
 ## MCP是什麼？ (What is MCP?)
 
+![mcp流程概念圖](./images/mcp流程概念圖.png)
+
 ### 簡單來說 (In Simple Terms)
 
 MCP (Model Context Protocol) 是一種讓 AI 可以像數位助手一樣，與各種應用程式和服務連接的方法。想像一下，AI 不僅能回答你的問題，還能幫你檢查日曆、訂機票、甚至控制智能家居設備。MCP 就是讓 AI 做到這些事情的關鍵技術。
