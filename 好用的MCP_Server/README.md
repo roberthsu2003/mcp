@@ -13,3 +13,20 @@
 
 ### [context7](https://github.com/upstash/context7)
 
+---
+
+### [Chrome DevTools](https://developer.chrome.com/blog/chrome-devtools-mcp?hl=zh-tw)
+
+```
+{
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["chrome-devtools-mcp@latest"]
+    }
+  }
+}
+```
+
+---
+
