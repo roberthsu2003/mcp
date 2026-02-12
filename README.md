@@ -1,5 +1,13 @@
 # MCP
 
+## Open-WebUI 和 MCP Server 54 小時課程
+
+- **[課程講義 (docs/)](./docs/)** - 完整章節文檔
+- **[範例專案 (examples/)](./examples/)** - minimal-mcp、youbike-mcp、postgres-mcp、qdrant-mcp
+- **[架構圖表 (diagrams/)](./diagrams/)** - 課程架構圖與流程圖
+
+---
+
 ### [MCP是什麼?](./MCP是什麼?)
 ### [如何使用MCP](./如何使用MCP)
 ### [好用的MCP Server](./好用的MCP_Server)
