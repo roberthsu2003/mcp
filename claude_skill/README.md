@@ -70,9 +70,9 @@ Skill
 
 ## **Step 2️⃣ 看 Skill 範例（關鍵）**
 
-Anthropic 官方 repo：
+anthropic 官方 說明:
 
-👉 [https://github.com/anthropics/claude-skills](https://github.com/anthropics/claude-skills)
+👉 [agentskills.io](https://agentskills.io/home)
 
 Anthropic 官方 範例:
 
