@@ -15,3 +15,5 @@
 ### [使用python呼叫本地LLM_使用MCP](./使用python呼叫本地LLM_使用MCP)
 
 > [參考影片-MCP + Agent Development Kit (ADK): Crash Course](./https://youtu.be/HkzOrj2qeXI?si=KFwiFkowvBw4ZcJV)
+
+- [**MCP Skill**](./claude_skill/)
