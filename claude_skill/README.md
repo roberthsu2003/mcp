@@ -1,26 +1,7 @@
+# [**Claude Skill 是什麼**](./Claude_Skill是什麼.md)
 
-# **一、Claude Skill 是什麼（先建立正確概念）**
 
-**Claude Skill = 可被 Claude 呼叫的能力模組**
-
-可以把它理解為：
-
-- MCP Server → 提供工具
-- Skill → 封裝工具 + prompt + 行為
-- Claude → 自動選擇何時用 Skill
-
-👉 類似：
-
-- ChatGPT 的 GPTs
-- OpenAI function calling
-- MCP tools
-- LangChain tools
-
-但 **Claude Skill 更接近 Agent capability**
-
----
-
-# **二、Claude Skill 架構（核心理解）**
+# **Claude Skill 架構（核心理解）**
 
 一個 Skill 本質上包含三件事：
 
@@ -45,7 +26,7 @@ Skill
 
 ---
 
-# **三、學習 Claude Skill 的最佳路線（給你最有效率）**
+# **學習 Claude Skill 的最佳路線（給你最有效率）**
 
 依你的背景（MCP / Python / 教學），建議順序：
 
@@ -96,7 +77,7 @@ Anthropic 官方 cookbook:
 
 ---
 
-# **四、最重要：Skill 設計心法（老師角度）**
+# **最重要：Skill 設計心法**
 
 Skill 是否好用，取決於兩件事：
 
@@ -145,7 +126,7 @@ When using this skill:
 
 ---
 
-# **五、從 MCP 轉 Skill（你最有感）**
+# **從 MCP 轉 Skill（你最有感）**
 
 你現在已經會 MCP server 👍
 
@@ -165,7 +146,7 @@ Claude 自動查資料庫
 
 ---
 
-# **六、你的第一個 Skill（最推薦實作）**
+# **你的第一個 Skill（最推薦實作**
 
 我建議你做這個：
 
@@ -220,7 +201,7 @@ Claude
 
 ---
 
-# **八、學習 Claude Skill 的最短成功路線（給你）**
+# **學習 Claude Skill 的最短成功路線（給你）**
 
 我建議你 2 小時完成：
 
