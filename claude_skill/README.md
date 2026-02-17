@@ -74,6 +74,10 @@ Anthropic 官方 repo：
 
 👉 [https://github.com/anthropics/claude-skills](https://github.com/anthropics/claude-skills)
 
+Anthropic 官方 範例:
+
+👉 [skills](https://github.com/anthropics/skills)
+
 Anthropic 官方 cookbook:
 
 👉 [https://platform.claude.com/cookbook/skills-notebooks-01-skills-introduction](https://platform.claude.com/cookbook/skills-notebooks-01-skills-introduction)
