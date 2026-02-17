@@ -1,8 +1,3 @@
-很好 👍
-
-你現在在做 MCP / Agent / 本地模型 / 教學設計，其實學 **Claude Skills** 會非常有感，因為它正好介於「工具呼叫」與「Agent能力封裝」之間。下面用一個「學習路線 + 實作步驟」帶你入門。
-
----
 
 # **一、Claude Skill 是什麼（先建立正確概念）**
 
@@ -78,6 +73,10 @@ Skill
 Anthropic 官方 repo：
 
 👉 [https://github.com/anthropics/claude-skills](https://github.com/anthropics/claude-skills)
+
+Anthropic 官方 cookbook:
+
+👉 [https://platform.claude.com/cookbook/skills-notebooks-01-skills-introduction](https://platform.claude.com/cookbook/skills-notebooks-01-skills-introduction)
 
 你應該先看這三類：
 
